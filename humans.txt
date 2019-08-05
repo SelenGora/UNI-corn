@@ -1,0 +1,14 @@
+/* TEAM */
+	Your title: Selen Gora
+	Site: Unicorn IO is a standart HTML template based on 7-1 pattern in Sass
+	Twitter: @SelenGora
+	Location: İzmir, Turkey
+
+/* THANKS */
+	-
+
+/* SITE */
+	Last update: 2019/08/05
+	Standards: HTML5, CSS3
+	Components: SASS as preprocessor
+	Software: VSCode as IDE
